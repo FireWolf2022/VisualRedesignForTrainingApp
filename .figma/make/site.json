@@ -1,0 +1,10 @@
+{
+  "description": "This personal training app offers users a streamlined interface to manage workout routines, track progress, and receive guided training sessions, all in a sleek dark theme.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
